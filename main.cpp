@@ -23,5 +23,11 @@ int main(){
         std::cout<<i<<std::endl;
     }
     
+    std::cout<<"HTML Code"<<std::endl;
+    std::cout<<"Superman"<<std::endl;
+    std::cout<<"CSS selectors"<<std::endl;
+    std::cout<<"Super sonic"<<std::endl;
+    std::cout<<"Darkspine"<<std::endl;
+
     return 0;
 }
