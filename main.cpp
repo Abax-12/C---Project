@@ -10,11 +10,17 @@ int main(){
     std::cout<<"I am another div"<<std::endl;
     std::cout<<"HTML"<<std::endl;
     std::cout<<"Hello "<<std::endl;
+    std::cout<<"Hello "<<std::endl;
+    std::cout<<"Hello "<<std::endl;
     
     int a = 1;
     int b = 2;
 
     int c = a+b;
+
+    int d =2
+    int f =a*b
+    
     
     return 0;
 }
