@@ -15,6 +15,13 @@ int main(){
     int b = 2;
 
     int c = a+b;
+
+    std::cout<<"Help me this is C++"<<std::endl;
+    
+    for (int i = 0; i < 5; i++)
+    {
+        std::cout<<i<<std::endl;
+    }
     
     return 0;
 }
